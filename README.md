@@ -1,4 +1,4 @@
-# Computer-graphicsteam-project
+# Computer graphics team project
 
 Python must be installed. 
 
